@@ -16,3 +16,6 @@ d_m (k)=0.8, d(k)=0, v(k)=0 and Np = 20, Nu = 3
 d_m (k)=0, d(k)=1/((z-1)(z-0.6)) Δw, Δw(k) and v(k) are independent zero mean white noise signals and Np = 20, Nu = 3
 
 ![2c](https://github.com/user-attachments/assets/355ed47c-04c2-47fa-96df-264c87036e16)
+
+Simulink
+![simulink](https://github.com/user-attachments/assets/77ee57b6-30a1-4fdc-8682-4a801e05ea96)
